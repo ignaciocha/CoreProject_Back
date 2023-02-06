@@ -134,8 +134,6 @@
 <br>
 
 ## 🤾‍♂️ 트러블슈팅 
-* 팀 생성 시테이블 두 개 동시 insert 이슈
-- useGeneratedKeys, applicaiton 설정 변경 시도 selectKey를 이용해 개선
+* 팀 생성 시테이블 두 개 동시 insert 이슈 : useGeneratedKeys, applicaiton 설정 변경 시도 selectKey를 이용해 개선
+* 캘린더 이벤트를 조작할 때 실시간 반영이 되는 않는 이슈 : Fullcalendar API 자체 add, update, delete 적용
  <br>
-* 캘린더 이벤트를 조작할 때 실시간 반영이 되는 않는 이슈
-- Fullcalendar API 자체 add, update, delete 적용
