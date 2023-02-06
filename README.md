@@ -109,7 +109,7 @@
 
 ### 팀룸(팀원목록/프로필)
 ![image](https://user-images.githubusercontent.com/112401561/216874254-332e2b73-8705-49db-808c-0efec2307180.png)
-![image](https://user-images.githubusercontent.com/112401561/216874315-38784c46-7731-4c25-bfb2-7ec5871ace15.png)
+![image](https://user-images.githubusercontent.com/112401561/216874683-2859995f-da02-46f4-894b-4cf3702bd7e1.png)
 <br>
 
 ### 
